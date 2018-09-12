@@ -37,7 +37,7 @@
 ## 三、	服務流程
 首先手機鏡頭錄製影像後，將影像傳送至LINE BOT，連結我們的伺服器，透過本系統已經經由CNN-LSTM技術訓練好的模型辨識，翻譯過後再利用Clova讀取訊息的功能，轉換成語音檔傳送給使用者的耳機，讓使用者讀懂聾人朋友所打的手語，再來如果要使用Clova技能，也先經由本系統辨識語句後，傳送辨識內容給Clova端運算，將最後的文字結果回傳至聾人朋友的載具，讓聾人能夠直接透過打手語得到問題的答案。
 
-<img src="https://github.com/hsuan51/doc/blob/master/1536656664690.jpg" width="80%">
+<img src="https://github.com/hsuan51/doc/blob/master/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%9C%96.jpg" width="80%">
 
 ## 四、	預期效益
 <h4>手語辨識翻譯</h4>
